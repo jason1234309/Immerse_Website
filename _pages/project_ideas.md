@@ -5,7 +5,8 @@ title: Project Ideas For IMMERSE
 
 ### Entry Level Suggestions
 
-* 
+* [Create a JSON schema for the Yosys JSON format. #7](https://github.com/SymbiFlow/ideas/issues/7)
+    For this project, the student will need to learn how JSON files are formatted but I feel that this will not be too difficult.
 
 *
 
