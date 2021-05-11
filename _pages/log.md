@@ -23,7 +23,7 @@ title: IMMERSE Log
 ### Week 3: May 10 - May 14, 2021
 
 * **Monday**: I studied the Sphinx Documentation
-* **Tuesday**: 
+* **Tuesday**: I worked on the project idea page on my Immerse Website and I watched the into to python video from Monday's Bootcamp meeting.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
