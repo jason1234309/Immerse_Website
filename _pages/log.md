@@ -23,14 +23,14 @@ title: IMMERSE Log
 ### Week 3: May 10 - May 14, 2021
 
 * **Monday**: I studied the Sphinx Documentation
-* **Tuesday**: I worked on the project idea page on my Immerse Website and I watched the into to python video from Monday's Bootcamp meeting.
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Tuesday**: I worked on the project idea page on my Immerse Website and I watched the into to python video from Monday's Bootcamp meeting
+* **Wednesday**: I worked on some GitHub experiments about git clone and git fork and I worked on the bootcamp python assignments. I also experimented with conda environments
+* **Thursday**: I set up a ubuntu 20.04 virtual environment for remote use on my personal laptop and I figured out how to remote into my lab machine off of campus. I also worked on the Github experiments as well as continued working on the python code assignments. I also worked on an idea for the bootcamp broader impact group involving creating a page on the website that has a intro to the hardware of the FPGA boards
+* **Friday**: I worked on researching sphinx documentation and searched for the difference between sphinx and jakyll. I also continued to work on the python assignment
 
 ### Week 4: May 17 - May 21, 2021
 
-* **Monday**: 
+* **Monday**: I finished the python csv parser assignment and I did a few github experiments.S
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
