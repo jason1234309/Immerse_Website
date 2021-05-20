@@ -30,8 +30,8 @@ title: IMMERSE Log
 
 ### Week 4: May 17 - May 21, 2021
 
-* **Monday**: I finished the python csv parser assignment and I did a few github experiments.S
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Monday**: I finished the python csv parser assignment and I did a few github experiments
+* **Tuesday**: I worked on experimenting with GitHub branches and forks, I also worked on the Bootcamp python assignments
+* **Wednesday**: I started the Vivado installation, I look through the Symbiflow examples repo and followed the steps to download the tools needed to build the example projects and I worked finished the python exercises for bootcamp
+* **Thursday**: I finished installing Vivado and getting it to run on my lab computer. I also studied about FPGA design in the "Designing Digital Systems With System Verilog (u2.02)" textbook
 * **Friday**: 
