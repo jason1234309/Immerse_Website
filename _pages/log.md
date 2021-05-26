@@ -38,13 +38,29 @@ title: IMMERSE Log
 
 ### week 5: May 24 - May 28, 2021
 
+* **Monday**: I worked through the tcl tutorial that is found on the Computing Bootcamp and I worked with the symbiflow examples repo to better understand sphinx
+* **Tuesday**: I continued working through the tcl tutorial found on the Computing Bootcamp and found a very helpful tcl tutorial online. I also found and studied a sphinx cheat sheet that helped me to understand how the sphinx pages in the symbiflow repo are created and organized
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
+### week 6: May 31 - June 4, 2021
+
 * **Monday**:
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
 
-### week 6: May 31 - June 4, 2021
+### week 7: June 7 - June 11, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
+### week 8: June 14 - June 18, 2021
 
 * **Monday**:
 * **Tuesday**:
