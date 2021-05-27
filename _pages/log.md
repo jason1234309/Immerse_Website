@@ -40,7 +40,7 @@ title: IMMERSE Log
 
 * **Monday**: I worked through the tcl tutorial that is found on the Computing Bootcamp and I worked with the symbiflow examples repo to better understand sphinx
 * **Tuesday**: I continued working through the tcl tutorial found on the Computing Bootcamp and found a very helpful tcl tutorial online. I also found and studied a sphinx cheat sheet that helped me to understand how the sphinx pages in the symbiflow repo are created and organized
-* **Wednesday**:
+* **Wednesday**: I worked on learning tcl through the mini projects on the Computing Bootcamp webpage and through the tcl tutorial I found yesterday.
 * **Thursday**:
 * **Friday**:
 
