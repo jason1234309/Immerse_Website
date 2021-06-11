@@ -58,7 +58,7 @@ title: IMMERSE Log
 * **Tuesday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark
 * **Wednesday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark, and created the .sh file that controls the file management for the cell information tcl file
 * **Thursday**: Worked on the python script that takes a directory of cell_information.csv files and makes a csv file contating the tile types used and which benchmarks use each tile type
-* **Friday**: finished working on the tile type csv python script
+* **Friday**: finished working on the tile type csv python script, created a pull request with all the changes I have been working on and a readme explaining the changes I have made. I also worked on my remote set up
 
 ### week 8: June 14 - June 18, 2021
 
