@@ -49,10 +49,26 @@ title: IMMERSE Log
 * **Monday**: Memorial Day Holiday
 * **Tuesday**: I worked on the tcl mini projects, the program to generate the tile and site types in a design, and the FPGA deep dive
 * **Wednesday**: I worked on the tcl mini projects and the program to generate the tile and site types in a design
-* **Thursday**:
-* **Friday**:
+* **Thursday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark
+* **Friday**:Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark and I researched the tcl commands supported by vivado
 
 ### week 7: June 7 - June 11, 2021
+
+* **Monday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark
+* **Tuesday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark
+* **Wednesday**: Worked on the tcl file that would create a .csv file for the benchmarks in the original benchmarks directory that contains all the information surrounding the cells in the benchmark, and created the .sh file that controls the file management for the cell information tcl file
+* **Thursday**: Worked on the python script that takes a directory of cell_information.csv files and makes a csv file contating the tile types used and which benchmarks use each tile type
+* **Friday**: finished working on the tile type csv python script
+
+### week 8: June 14 - June 18, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**: Family Vacation
+
+### week 9: June 21 - June 25, 2021
 
 * **Monday**:
 * **Tuesday**:
@@ -60,7 +76,15 @@ title: IMMERSE Log
 * **Thursday**:
 * **Friday**:
 
-### week 8: June 14 - June 18, 2021
+### week 10: June 27 - July 2, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
+### week 10: July 5 - July 9, 2021
 
 * **Monday**:
 * **Tuesday**:
