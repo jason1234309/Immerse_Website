@@ -62,10 +62,10 @@ title: IMMERSE Log
 
 ### week 8: June 14 - June 18, 2021
 
-* **Monday**:
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
+* **Monday**: I created a sub repository for the gmt_benchmarks, and I researched the fva repository
+* **Tuesday**: I researched the fva repository
+* **Wednesday**: I worked on a few programs that can see if the xilinx parts have unbounded IO sites and gets the number of BRam, DSP, and CLBL resources for the different parts
+* **Thursday**: Finished the programs that can see if the xilinx parts have unbounded IO sites and gets the number of BRam, DSP, and CLBL resources for the different parts
 * **Friday**: Family Vacation
 
 ### week 9: June 21 - June 25, 2021
