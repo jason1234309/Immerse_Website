@@ -70,18 +70,18 @@ title: IMMERSE Log
 
 ### week 9: June 21 - June 25, 2021
 
-* **Monday**:
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
-* **Friday**:
+* **Monday**: Family Vacation
+* **Tuesday**: Family Vacation
+* **Wednesday**: Family Vacation
+* **Thursday**: Family Vacation
+* **Friday**: Family Vacation
 
 ### week 10: June 27 - July 2, 2021
 
-* **Monday**:
-* **Tuesday**:
+* **Monday**: Worked on expanding and condencing the files that generate the cell information databases
+* **Tuesday**:  Worked on expanding and condencing the files that generate the cell information databases
 * **Wednesday**:
-* **Thursday**:
+* **Thursday**: Chip Camp
 * **Friday**:
 
 ### week 10: July 5 - July 9, 2021
