@@ -78,13 +78,45 @@ title: IMMERSE Log
 
 ### week 10: June 27 - July 2, 2021
 
-* **Monday**: Worked on expanding and condencing the files that generate the cell information databases
-* **Tuesday**:  Worked on expanding and condencing the files that generate the cell information databases
-* **Wednesday**:
+* **Monday**: Worked on condensing the files that generate the cell information databases
+* **Tuesday**:  Worked on condensing the files that generate the cell information databases
+* **Wednesday**: worked on adding command line arguments to the file that generates the cell information databases
 * **Thursday**: Chip Camp
+* **Friday**: Finished adding command line arguments to the file that generates the cell information databases
+
+### week 11: July 5 - July 9, 2021
+
+* **Monday**: Holiday
+* **Tuesday**: Chip Camp
+* **Wednesday**: Chip Camp
+* **Thursday**: Chip Camp
+* **Friday**: worked on the compile scripts for Mason's Benchmarks
+
+### week 12: July 12 - July 16, 2021
+
+* **Monday**: worked on the compile scripts for Mason's Benchmarks
+* **Tuesday**: worked on the compile scripts for Mason's Benchmarks
+* **Wednesday**: Sick day
+* **Thursday**: Sick day
+* **Friday**: finished the compile scripts for Mason's Benchmarks
+
+### week 13: July 19 - July 23, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
 * **Friday**:
 
-### week 10: July 5 - July 9, 2021
+### week 14: July 26 - July 30, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
+### week 15: Aug 2 - Aug 6, 2021
 
 * **Monday**:
 * **Tuesday**:
