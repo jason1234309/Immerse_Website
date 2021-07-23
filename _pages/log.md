@@ -98,14 +98,14 @@ title: IMMERSE Log
 * **Tuesday**: worked on the compile scripts for Mason's Benchmarks
 * **Wednesday**: Sick day
 * **Thursday**: Sick day
-* **Friday**: finished the compile scripts for Mason's Benchmarks
+* **Friday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file
 
 ### week 13: July 19 - July 23, 2021
 
-* **Monday**:
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
+* **Monday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file
+* **Tuesday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file
+* **Wednesday**: worked on the benchmark compile scripts, and worked on the quarterly report
+* **Thursday**: finished the quarterly report
 * **Friday**:
 
 ### week 14: July 26 - July 30, 2021
