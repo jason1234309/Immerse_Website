@@ -106,11 +106,11 @@ title: IMMERSE Log
 * **Tuesday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file
 * **Wednesday**: worked on the benchmark compile scripts, and worked on the quarterly report
 * **Thursday**: finished the quarterly report
-* **Friday**:
+* **Friday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file
 
 ### week 14: July 26 - July 30, 2021
 
-* **Monday**:
+* **Monday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file and the project to document what parts have which tile types
 * **Tuesday**:
 * **Wednesday**:
 * **Thursday**:
