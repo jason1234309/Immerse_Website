@@ -111,9 +111,9 @@ title: IMMERSE Log
 ### week 14: July 26 - July 30, 2021
 
 * **Monday**: worked on the compile scripts for Mason's Benchmarks and the testhub module source file and the project to document what parts have which tile types
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
+* **Tuesday**: Worked on scripts to produce two csv files that show what tile types are used by which benchmarks
+* **Wednesday**: Took the day off for a family event
+* **Thursday**: Finished the scripts that produce two csv files that show what tile types are used by which benchmarks
 * **Friday**:
 
 ### week 15: Aug 2 - Aug 6, 2021
